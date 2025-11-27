@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2025 - To: 24 November 2025
+From: 05 October 2025 - To: 25 November 2025
 
 Total Time: 75 hrs 49 mins
 
-Other               294 hrs 31 mins >>>>>>>>>>>>>>>>>>>>-----   79.53 %
-PHP                 36 hrs 45 mins  >>-----------------------   09.93 %
+Other               295 hrs 9 mins  >>>>>>>>>>>>>>>>>>>>-----   79.56 %
+PHP                 36 hrs 45 mins  >>-----------------------   09.91 %
 Markdown            8 hrs 36 mins   >------------------------   02.32 %
 Twig                8 hrs 14 mins   >------------------------   02.22 %
 HTML                3 hrs 48 mins   -------------------------   01.03 %
