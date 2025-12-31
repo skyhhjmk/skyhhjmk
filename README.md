@@ -8,18 +8,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2025 - To: 28 December 2025
+From: 05 October 2025 - To: 29 December 2025
 
-Total Time: 130 hrs 4 mins
+Total Time: 132 hrs 21 mins
 
-Other               341 hrs 53 mins >>>>>>>>>>>>>>>>>>-------   72.44 %
-PHP                 64 hrs 39 mins  >>>----------------------   13.70 %
-Markdown            13 hrs 12 mins  >------------------------   02.80 %
-Twig                12 hrs 7 mins   >------------------------   02.57 %
-Log                 10 hrs 8 mins   >------------------------   02.15 %
-HTML                4 hrs 26 mins   -------------------------   00.94 %
+Other               343 hrs 58 mins >>>>>>>>>>>>>>>>>>-------   72.21 %
+PHP                 65 hrs 21 mins  >>>----------------------   13.72 %
+Markdown            13 hrs 14 mins  >------------------------   02.78 %
+Twig                12 hrs 7 mins   >------------------------   02.55 %
+Log                 10 hrs 8 mins   >------------------------   02.13 %
+HTML                4 hrs 56 mins   -------------------------   01.04 %
+JavaScript          3 hrs 34 mins   -------------------------   00.75 %
 SQL                 2 hrs 41 mins   -------------------------   00.57 %
-JavaScript          2 hrs 32 mins   -------------------------   00.54 %
 ```
 
 <!--END_SECTION:waka-->
