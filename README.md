@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2025 - To: 31 August 2026
+From: 05 October 2025 - To: 01 September 2026
 
 Total Time: 551 hrs 58 mins
 
-Other               820 hrs 43 mins       >>>>>>>>>>>>>>>----------   59.79 %
+Other               821 hrs 15 mins       >>>>>>>>>>>>>>>----------   59.81 %
 Java                141 hrs               >>>----------------------   10.27 %
 PHP                 100 hrs 20 mins       >>-----------------------   07.31 %
 Dart                87 hrs 33 mins        >>-----------------------   06.38 %
