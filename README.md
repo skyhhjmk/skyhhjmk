@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2025 - To: 06 September 2026
+From: 05 October 2025 - To: 07 September 2026
 
 Total Time: 551 hrs 58 mins
 
-Other               823 hrs 21 mins       >>>>>>>>>>>>>>>----------   59.87 %
+Other               824 hrs 1 min         >>>>>>>>>>>>>>>----------   59.89 %
 Java                141 hrs               >>>----------------------   10.25 %
-PHP                 100 hrs 20 mins       >>-----------------------   07.30 %
-Dart                87 hrs 33 mins        >>-----------------------   06.37 %
-Markdown            42 hrs 59 mins        >------------------------   03.13 %
+PHP                 100 hrs 20 mins       >>-----------------------   07.29 %
+Dart                87 hrs 33 mins        >>-----------------------   06.36 %
+Markdown            42 hrs 59 mins        >------------------------   03.12 %
 XML                 17 hrs 39 mins        -------------------------   01.28 %
 HTML                17 hrs 34 mins        -------------------------   01.28 %
 Twig                17 hrs 6 mins         -------------------------   01.24 %
